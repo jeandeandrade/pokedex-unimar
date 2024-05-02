@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pokedex-unimar
 =======
 # pokedex
@@ -30,4 +29,3 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> 04d612f (Arquivos do Projeto)
